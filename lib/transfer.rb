@@ -27,3 +27,4 @@ class Transfer
       "Transaction rejected. Please check your account balance."
 end
 end
+end
